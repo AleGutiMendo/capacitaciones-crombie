@@ -1,3 +1,7 @@
+# Spy
+# Stub
+# Mock
+
 # capacitaciones-crombie
 
 ```
