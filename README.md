@@ -1,6 +1,6 @@
 # capacitaciones-crombie
 
-###
+```
 import ErrorResponse from "Helpers/ErrorResponse";
 // const updateUCC = jest.fn((event) => 'Invoke updateUCC for handling POST method');
 // const getUCCInfo = jest.fn((event) => 'Invoke getUCCInfo for handling GET method');
@@ -74,4 +74,4 @@ describe('orderUCC', () => {
   //   expect(() => handler(event)).toThrow("Invalid method");
   // });
 });
-###
+```
